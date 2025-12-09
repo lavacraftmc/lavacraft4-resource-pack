@@ -1,6 +1,8 @@
 {
+    "pack": {
     "description": "LavaCraft Season 4 Pack",
-    "pack_format": 64,
-    "min_format": 64,
-    "max_format": 69,
+    "min_format": 65,
+    "max_format": 69
+    }
+
 }

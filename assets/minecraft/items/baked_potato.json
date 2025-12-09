@@ -4,13 +4,13 @@
         "property":"custom_model_data",
         "fallback":{
             "type":"model",
-            "model":"item/feather"
+            "model":"item/baked_potato"
         },
         "entries":[
             {
                 "threshold":1000001,
                 "model":{
-                    "model":"lavacraft/food/tater_tot",
+                    "model":"lavacraft:food/tater_tot",
                     "type": "model"
                 }
             }
