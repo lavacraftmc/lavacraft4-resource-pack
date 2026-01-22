@@ -4,13 +4,13 @@
         "property":"custom_model_data",
         "fallback":{
             "type":"model",
-            "model":"item/baked_potato"
+            "model":"block/carved_pumpkin"
         },
         "entries":[
             {
                 "threshold":1000001,
                 "model":{
-                    "model":"lavacraft:food/tater_tot",
+                    "model":"lavacraft:hats/park_ranger",
                     "type": "model"
                 }
             }

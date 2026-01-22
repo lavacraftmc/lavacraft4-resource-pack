@@ -8,6 +8,6 @@
         }
     },
     "textures":{
-        "layer0":"minecraft:food/tater_tot"
+        "layer0":"lavacraft:food/tater_tot"
     }
 }

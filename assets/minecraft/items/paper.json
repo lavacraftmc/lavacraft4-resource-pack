@@ -4,13 +4,13 @@
         "property":"custom_model_data",
         "fallback":{
             "type":"model",
-            "model":"item/baked_potato"
+            "model":"minecraft:item/paper"
         },
         "entries":[
             {
                 "threshold":1000001,
                 "model":{
-                    "model":"lavacraft:food/tater_tot",
+                    "model":"minecraft:item/paper",
                     "type": "model"
                 }
             }
