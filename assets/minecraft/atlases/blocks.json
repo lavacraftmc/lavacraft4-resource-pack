@@ -5,6 +5,11 @@
             "type":"directory",
             "source":"food",
             "prefix":"food/"
+        },
+	{
+            "type":"directory",
+            "source":"permit",
+            "prefix":"permit/"
         }
     ]
 }
