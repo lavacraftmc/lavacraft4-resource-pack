@@ -10,6 +10,11 @@
             "type":"directory",
             "source":"permit",
             "prefix":"permit/"
+        },
+        {
+            "type":"directory",
+            "source":"hats",
+            "prefix":"hats/"
         }
     ]
 }
