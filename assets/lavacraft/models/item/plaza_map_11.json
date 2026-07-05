@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "lavacraft:item/plaza_map_00",
+	"textures": {
+		"0": "lavacraft:misc/plaza_map_11",
+		"particle": "lavacraft:misc/plaza_map_11"
+	}
+}
